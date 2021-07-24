@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://setubal-dev1999.github.io/csb-l338g/static/css/main.4fb12b0e.chunk.css",
+    "main.js": "https://setubal-dev1999.github.io/csb-l338g/static/js/main.52ab30f1.chunk.js",
+    "main.js.map": "https://setubal-dev1999.github.io/csb-l338g/static/js/main.52ab30f1.chunk.js.map",
+    "runtime-main.js": "https://setubal-dev1999.github.io/csb-l338g/static/js/runtime-main.bd308e5a.js",
+    "runtime-main.js.map": "https://setubal-dev1999.github.io/csb-l338g/static/js/runtime-main.bd308e5a.js.map",
+    "static/js/2.8a02763a.chunk.js": "https://setubal-dev1999.github.io/csb-l338g/static/js/2.8a02763a.chunk.js",
+    "static/js/2.8a02763a.chunk.js.map": "https://setubal-dev1999.github.io/csb-l338g/static/js/2.8a02763a.chunk.js.map",
+    "index.html": "https://setubal-dev1999.github.io/csb-l338g/index.html",
+    "static/css/main.4fb12b0e.chunk.css.map": "https://setubal-dev1999.github.io/csb-l338g/static/css/main.4fb12b0e.chunk.css.map",
+    "static/js/2.8a02763a.chunk.js.LICENSE.txt": "https://setubal-dev1999.github.io/csb-l338g/static/js/2.8a02763a.chunk.js.LICENSE.txt",
+    "static/media/plus-icon.b030f6ae.svg": "https://setubal-dev1999.github.io/csb-l338g/static/media/plus-icon.b030f6ae.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd308e5a.js",
+    "static/js/2.8a02763a.chunk.js",
+    "static/css/main.4fb12b0e.chunk.css",
+    "static/js/main.52ab30f1.chunk.js"
+  ]
+}
